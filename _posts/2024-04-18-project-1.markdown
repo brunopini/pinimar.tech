@@ -1,0 +1,12 @@
+---
+layout: default
+title: Automations
+modal-id: 1
+date: 2024-04-18
+img: automations.png
+alt: image-alt
+# project-date: April 2024
+# client: 
+# category: Web Development
+description: Most teams waste valueable time and resources by performing manual repetitive tasks, which also raise the risk of mistakes. These include generating reports, sharing audience data, uploading offline events, etc. We can fix that.
+---

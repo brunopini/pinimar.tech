@@ -1,0 +1,12 @@
+---
+layout: default
+title: Server-to-Server Events
+modal-id: 3
+date: 2024-04-18
+img: s2s.png
+alt: image-alt
+# project-date: April 2024
+# client: 
+# category: Web Development
+description: Website and app events are becoming increasingly unreliable, and conversions are taking place in different channels, such as your physical store, a WhatsApp bot, or a sales rep funnel. We help you track and levarage these events.
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+title: Data Modeling
+modal-id: 2
+date: 2024-04-18
+img: modeling.png
+alt: image-alt
+# project-date: April 2024
+# client: 
+# category: Web Development
+description: Raw data is most of the time meaningless for your business. We help consolidate data into actionable insights, readily available for teams to analyze and empower business decisions.
+---
